@@ -1,1 +1,1 @@
-# gmailreader
+# gmail-reader
